@@ -8,7 +8,7 @@
     </a>
     Marcus Augusto
     <br><br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monoton&size=25&duration=4000&pause=1&width=600&separator=%3C&lines=Idade%3A+35+anos%3CForma%C3%A7%C3%A3o%3A+Análise+e+Desenvolvimento+de+Software%3CSeja+Bem+vindo!+;)" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monoton&size=25&duration=4000&pause=1&width=600&separator=%3C&lines=Idade%3A+36+anos%3CForma%C3%A7%C3%A3o%3A+Análise+e+Desenvolvimento+de+Software%3CSeja+Bem+vindo!+;)" alt="Typing SVG" /></a>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Alan;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
