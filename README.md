@@ -11,7 +11,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monoton&size=25&duration=4000&pause=1&width=600&separator=%3C&lines=Idade%3A+36+anos%3CForma%C3%A7%C3%A3o%3A+Análise+e+Desenvolvimento+de+Software%3CSeja+Bem+vindo!+;)" alt="Typing SVG" /></a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Alan;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Marcus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
 <h3 style="font-family: Monoton; color: #3178C6; text-align: center; letter-spacing: 1px">Sou Pernambucando, tenho 36 anos e estou estudando Análise e Desenvolvimento de Sistemas.</h3>
